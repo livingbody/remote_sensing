@@ -1,3 +1,7 @@
 paddlepaddle
-paddleSeg
+paddlehub
+visualdl
+paddleseg
+paddlenlp
+paddleocr
 paddleX
